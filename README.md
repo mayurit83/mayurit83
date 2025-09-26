@@ -6,23 +6,14 @@ I'm **Mayuri Thorat**, a pass-out AI & Data Science graduate passionate about bu
 
 ---
 
-## 🚀 Featured Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **AI Code Review System** | Python, Django, React | Upload code & get AI suggestions for improvements and bug detection |
-| **Smart Knowledge Base Chatbot** | Python, Django, React, NLP | Real-time chatbot answers questions from a custom knowledge base |
-| **Collaborative Code Snippet Platform** | Java, Spring Boot, React, SQL | Share, search, comment, and rate code snippets for developers |
-
----
-
-##  Currently Learning
+## 🌟 Currently Learning
 - Advanced Full-Stack Development  
 - Cloud Deployment & CI/CD  
 - Data Structures & Algorithms (DSA)  
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 - Completed multiple full-stack and AI projects  
 - Built deployable AI/NLP applications  
 - Strong GitHub contribution history  
