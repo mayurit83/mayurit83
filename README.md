@@ -15,14 +15,14 @@ I'm **Mayuri Thorat**, a pass-out AI & Data Science graduate passionate about bu
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Advanced Full-Stack Development  
 - Cloud Deployment & CI/CD  
 - Data Structures & Algorithms (DSA)  
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 - Completed multiple full-stack and AI projects  
 - Built deployable AI/NLP applications  
 - Strong GitHub contribution history  
