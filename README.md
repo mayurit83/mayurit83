@@ -22,7 +22,7 @@ I'm **Mayuri Thorat**, an AI & Data Science graduate passionate about building *
 
 ## 📫 Contact Me
 - Email: mayurit83@gmail.com  
-- LinkedIn: [Mayuri Thorat](https://www.linkedin.com/in/mayuri-thorat-2b40b6238/)  
+- LinkedIn: [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
 
 ---
 
