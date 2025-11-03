@@ -1,35 +1,40 @@
-Hello!!! 👋
+# 👋 Hello, I'm Mayuri Thorat  
 
-I'm Mayuri Thorat, an AI & Data Science graduate passionate about transforming raw data into meaningful insights and building scalable data-driven solutions.
-
-💻 Skills & Tools: Python, SQL, Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Data Warehousing, ETL Pipelines, Big Data (PySpark), Cloud (AWS), REST APIs
-
-🌟 Currently Learning
-
-Advanced Data Engineering & Cloud Pipelines ☁️
-
-Data Analytics with Power BI & Tableau 📊
-
-Data Structures & Algorithms (DSA) 🧠
-
-🏆 Achievements
-
-Completed multiple AI & Data Analytics projects using real-world datasets
-
-Built automated ETL and data visualization pipelines
-
-Strong GitHub contribution history showcasing end-to-end data projects
-
-## 📫 Contact Me
-- Email: mayurit83@gmail.com  
-- LinkedIn: [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
+🎓 **AI & Data Science Graduate** | 💡 Passionate about transforming data into insights and building scalable, data-driven solutions.  
+I love solving complex problems using **Python, SQL, and analytics tools**, turning raw data into meaningful business impact.
 
 ---
 
-## 🏷️ Languages & Tools 
+## 💻 Skills & Tools  
+
+**Programming & Querying:** Python, SQL, Java  
+**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+**Visualization:** Power BI, Tableau, Looker Studio, Excel  
+**Databases:** MySQL, PostgreSQL  
+**Machine Learning:** Regression, Classification, Clustering, NLP, Time Series  
+**Data Engineering:** ETL Pipelines, Data Warehousing, PySpark, Airflow, Kafka, AWS  
+**Deployment:** Flask, Streamlit, FastAPI  
+**Version Control & Tools:** Git, GitHub, VS Code, Jupyter, Linux  
+
+---
+
+## 🌟 Currently Learning  
+- Advanced Data Engineering & Cloud Pipelines ☁️  
+- Data Analytics with Power BI & Tableau 📊  
+- Data Structures & Algorithms (DSA) 🧠  
+
+---
+
+## 🏆 Achievements  
+- Completed multiple **AI, Data Analytics, and ML projects** using real-world datasets  
+- Built **automated ETL and data visualization pipelines**  
+- Maintains a **strong GitHub contribution history** showcasing end-to-end data projects  
+
+---
+
+## 🧰 Languages & Tools (with links)
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-17-red)](https://www.java.com/)
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange)](https://www.postgresql.org/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-Data%20Visualization-yellow)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange)](https://www.tableau.com/)
@@ -54,5 +59,33 @@ Strong GitHub contribution history showcasing end-to-end data projects
 
 ---
 
-😄 **Fun Fact:** I love solving problems, building impactful projects, and learning new technologies every day!  
+## 🗂️ Project Portfolio  
 
+👉 [**View My Full Data Portfolio**](https://github.com/mayurit83/Mayuri-Data-Portfolio)  
+
+| Project | Domain | Tools & Techniques | Description |
+|----------|---------|--------------------|-------------|
+| 💰 **Loan Default Prediction** | Machine Learning | Python, Pandas, Scikit-learn | Predicted loan defaults using classification algorithms (AUC 0.87). |
+| 🛍️ **E-Commerce Analysis** | Data Analytics | SQL, Power BI | Analyzed online sales trends and customer segmentation for insights. |
+| 👩🏻‍💻 **HR Attrition Dashboard** | Visualization | Tableau | Created interactive dashboard to track employee turnover KPIs. |
+| 🧾 **ETL Pipeline for Sales Data** | Data Engineering | PySpark, Airflow, AWS | Built automated pipeline for extracting, transforming, and loading sales data. |
+
+---
+
+## 🎓 Certifications  
+- Google Data Analytics Professional Certificate – Coursera  
+- Python for Data Science – IBM  
+- Power BI for Data Visualization – Udemy  
+- Advanced SQL – Maven Analytics  
+- Machine Learning Specialization – Andrew Ng  
+
+---
+
+## 📫 Contact Me  
+- 📧 **Email:** [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
+- 💼 **LinkedIn:** [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
+- 💻 **GitHub:** [mayurit83](https://github.com/mayurit83)  
+
+---
+
+😄 **Fun Fact:** I enjoy exploring data, building impactful projects, and learning something new every day!
