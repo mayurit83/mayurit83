@@ -1,24 +1,24 @@
-# Hello!!! 👋
+Hello!!! 👋
 
-I'm **Mayuri Thorat**, an AI & Data Science graduate passionate about building **real-world software solutions** and **full-stack applications**.  
+I'm Mayuri Thorat, an AI & Data Science graduate passionate about transforming raw data into meaningful insights and building scalable data-driven solutions.
 
-💻 **Skills & Tools:** Python, Java, Django, React, SQL, HTML, CSS, JavaScript, Machine Learning, NLP, Generative AI, REST APIs  
+💻 Skills & Tools: Python, SQL, Power BI, Tableau, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning, Data Warehousing, ETL Pipelines, Big Data (PySpark), Cloud (AWS), REST APIs
 
----
+🌟 Currently Learning
 
-## 🌟 Currently Learning
-- Advanced Full-Stack Development 🛠️  
-- Cloud Deployment & CI/CD ☁️  
-- Data Structures & Algorithms (DSA) 📊  
+Advanced Data Engineering & Cloud Pipelines ☁️
 
----
+Data Analytics with Power BI & Tableau 📊
 
-## 🏆 Achievements
-- Completed multiple full-stack and AI projects  
-- Built deployable AI/NLP and Generative AI applications  
-- Strong GitHub contribution history  
+Data Structures & Algorithms (DSA) 🧠
 
----
+🏆 Achievements
+
+Completed multiple AI & Data Analytics projects using real-world datasets
+
+Built automated ETL and data visualization pipelines
+
+Strong GitHub contribution history showcasing end-to-end data projects
 
 ## 📫 Contact Me
 - Email: mayurit83@gmail.com  
