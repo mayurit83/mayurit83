@@ -7,7 +7,7 @@ I enjoy solving real-world problems using **Python, SQL, and analytics tools**, 
 
 ## 💻 Skills & Tools  
 
-**Programming:** Python, SQL, Java, JavaScript  
+**Programming:** Python, SQL
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Visualization:** Power BI, Tableau, Looker Studio, Excel  
 **Databases:** MySQL, PostgreSQL  
