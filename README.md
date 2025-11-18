@@ -1,4 +1,4 @@
--## 💻 Skills & Tools  
+💻 Skills & Tools  
 
 **Programming:** Python, SQL 
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
