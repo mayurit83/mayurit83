@@ -1,11 +1,4 @@
-# 👋 Hello, I'm Mayuri Thorat  
-
-🎓 **AI & Data Science Graduate** | 💡 Passionate about transforming data into insights and building scalable, AI-powered solutions.  
-I enjoy solving real-world problems using **Python, SQL, and analytics tools**, turning raw data into actionable business outcomes.  
-
----
-
-## 💻 Skills & Tools  
+-## 💻 Skills & Tools  
 
 **Programming:** Python, SQL 
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
@@ -67,4 +60,3 @@ I enjoy solving real-world problems using **Python, SQL, and analytics tools**, 
 
 ---
 
-😄 **Fun Fact:** I love exploring data, designing intelligent systems, and continuously learning to grow as a developer!
