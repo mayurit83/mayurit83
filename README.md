@@ -7,7 +7,7 @@
 **Machine Learning:** Regression, Classification, Clustering, NLP, Time Series  
 **Data Engineering:** ETL Pipelines, PySpark, Airflow, Kafka, AWS  
 **Deployment:** Flask, Streamlit, Django, FastAPI  
-**Version Control:** Git, GitHub, VS Code, Jupyter, Linux  
+**Version Control:** Git, GitHub, VS Code, Jupyter
 
 ---
 
