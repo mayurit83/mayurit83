@@ -52,7 +52,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
 📧 **Email:** [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
 💼 **LinkedIn:** [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
