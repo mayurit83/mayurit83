@@ -4,7 +4,7 @@
 **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 **Visualization:** Power BI, Tableau, Looker Studio, Excel  
 **Databases:** MySQL, PostgreSQL  
-**Machine Learning:** Regression, Classification, Clustering, NLP, Time Series  
+**Machine Learning:** Regression, Classification, Clustering, NLP, Time Series
 **Data Engineering:** ETL Pipelines, PySpark, Airflow, Kafka, AWS  
 **Deployment:** Flask, Streamlit, Django, FastAPI  
 **Version Control:** Git, GitHub, VS Code, Jupyter
