@@ -34,7 +34,6 @@
 | 🧪 **Manual Testing Practice** | Software Testing | Excel, Test Cases | Performed manual testing for a demo web app, logged bugs, and created test reports. |
 | 🌐 **Simple API Testing** | Software Testing | Postman, Python | Tested REST APIs, validated responses, and checked data consistency. |
 | 🛠️ **Web Automation (Basic)** | Software Testing | Selenium, Python | Automated simple web tasks like form filling and data validation. |
-| 📊 **Mini Sales Dashboard** | Software Development | Excel, Python | Created a basic dashboard to visualize sales data for practice. |
 
 👉 **Explore all projects:** [GitHub Projects ↗️](https://github.com/mayurit83?tab=repositories)  
 
