@@ -30,17 +30,15 @@
 
 ## 🗂️ Featured Projects  
 
-| Project | Domain | Tools | Description |
-|---------|--------|-------|-------------|
-| 🚗 **Fleet Management & Vehicle Analytics System** | Software Dev | Django, REST API, MySQL | Manage vehicles, bookings, and maintenance with automated alerts. |
-| 💬 **Smart Helpdesk Chatbot** | Software Dev | Python, Flask | Built a chatbot to answer common queries with backend logic. |
-| 🤖 **Smart AI Resume Analyzer** | Software Dev + ML | Python, Flask, NLP | Compares resumes with job descriptions and suggests improvements. |
-| 💰 **Predict Loan Default Customers** | Data Analysis | Python, Pandas, Scikit-learn | Predicts loan defaults using classification models. |
-| 📊 **Power BI Sales Dashboard** | Data Visualization | Power BI | Interactive dashboard to track KPIs and monthly sales growth. |
-| 🛍️ **E-Commerce Analysis** | Data Analysis | SQL, Power BI | Analyzed customer behavior and sales trends for business insights. |
+| Project | Role | Tools | Description |
+|---------|------|-------|-------------|
+| 💬 **Smart Helpdesk Chatbot** | Developer & Tester | Python, Flask | Built a simple chatbot to answer user queries. Tested responses and backend logic. |
+| 🚗 **Fleet Management System** | Developer & Tester | Django, REST API, MySQL | Managed vehicles, bookings, and maintenance tasks. Tested API endpoints and database updates. |
+| 💰 **Loan Default Prediction** | Developer | Python, Pandas, Scikit-learn | Predicted loan defaults with classification models. Validated model outputs and data correctness. |
+| 🛍️ **E-Commerce Analysis** | Developer | SQL, Python | Analyzed customer behavior and sales trends. Verified SQL queries and data accuracy. |
+| 👩🏻‍💻 **Subjective Answer Evaluation System** | Developer | Python, Django, React, SVM | Full-stack project to evaluate answers automatically. Tested backend scoring and frontend display. |
 
 ---
-
 ## 📫 Connect With Me
 
 📧 Email: [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
