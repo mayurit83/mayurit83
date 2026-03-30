@@ -28,23 +28,21 @@
 
 ## 🗂️ Featured Projects  
 
+## 🗂️ Featured Projects  
 
 | Project | Domain | Tools | Description |
 |---------|--------|-------|-------------|
-| 📝 **Student Management System** | Development | Python, MySQL | A simple system to add, update, delete, and view student records in a database. |
-| 🛒 **Mini E-Commerce DB** | Development | Python, MySQL | Manage products, customers, and orders with basic CRUD operations using Python scripts. |
-| 💰 **Expense Tracker** | Development | Python, MySQL | Track personal expenses and income with basic SQL queries and Python interface. |
-| 🏪 **Library Management System** | Development | Python, MySQL | Keep track of books, borrowers, and issued books with simple Python menu interface. |
-| 🧾 **Invoice Generator** | Development | Python, MySQL | Generate invoices for customers with auto-calculated totals and store records in SQL. |
-
-👉 **Explore all projects:** [GitHub Projects ↗️](https://github.com/mayurit83?tab=repositories)  
+| 🚗 **Fleet Management & Vehicle Analytics System** | Software Dev | Django, REST API, MySQL | Manage vehicles, bookings, and maintenance with automated alerts. |
+| 💬 **Smart Helpdesk Chatbot** | Software Dev | Python, Flask | Built a chatbot to answer common queries with backend logic. |
+| 🤖 **Smart AI Resume Analyzer** | Software Dev + ML | Python, Flask, NLP | Compares resumes with job descriptions and suggests improvements. |
+| 💰 **Predict Loan Default Customers** | Data Analysis | Python, Pandas, Scikit-learn | Predicts loan defaults using classification models. |
+| 📊 **Power BI Sales Dashboard** | Data Visualization | Power BI | Interactive dashboard to track KPIs and monthly sales growth. |
+| 🛍️ **E-Commerce Analysis** | Data Analysis | SQL, Power BI | Analyzed customer behavior and sales trends for business insights. |
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
-💼 **LinkedIn:** [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
-💻 **GitHub:** [mayurit83](https://github.com/mayurit83)  
-
----
+📧 Email: [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
+💼 LinkedIn: [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
+💻 GitHub: [mayurit83](https://github.com/mayurit83)
