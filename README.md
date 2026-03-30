@@ -28,8 +28,6 @@
 
 ## 🗂️ Featured Projects  
 
-## 🗂️ Featured Projects  
-
 | Project | Role | Tools | Description |
 |---------|------|-------|-------------|
 | 💬 **Smart Helpdesk Chatbot** | Developer & Tester | Python, Flask | Built a simple chatbot to answer user queries. Tested responses and backend logic. |
