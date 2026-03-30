@@ -28,12 +28,14 @@
 
 ## 🗂️ Featured Projects  
 
+
 | Project | Domain | Tools | Description |
 |---------|--------|-------|-------------|
-| 💻 **Basic CRUD Web App** | Software Development | Flask, MySQL, HTML/CSS | Built a simple app to add, view, update, and delete user data. |
-| 🧪 **Manual Testing Practice** | Software Testing | Excel, Test Cases | Performed manual testing for a demo web app, logged bugs, and created test reports. |
-| 🌐 **Simple API Testing** | Software Testing | Postman, Python | Tested REST APIs, validated responses, and checked data consistency. |
-| 🛠️ **Web Automation (Basic)** | Software Testing | Selenium, Python | Automated simple web tasks like form filling and data validation. |
+| 📝 **Student Management System** | Development | Python, MySQL | A simple system to add, update, delete, and view student records in a database. |
+| 🛒 **Mini E-Commerce DB** | Development | Python, MySQL | Manage products, customers, and orders with basic CRUD operations using Python scripts. |
+| 💰 **Expense Tracker** | Development | Python, MySQL | Track personal expenses and income with basic SQL queries and Python interface. |
+| 🏪 **Library Management System** | Development | Python, MySQL | Keep track of books, borrowers, and issued books with simple Python menu interface. |
+| 🧾 **Invoice Generator** | Development | Python, MySQL | Generate invoices for customers with auto-calculated totals and store records in SQL. |
 
 👉 **Explore all projects:** [GitHub Projects ↗️](https://github.com/mayurit83?tab=repositories)  
 
