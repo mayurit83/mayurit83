@@ -51,5 +51,5 @@ Tools: Postman, VS Code
 ## 📫 Contact
 
 📧 Email: mayurit83@gmail.com  
-💼 LinkedIn: Mayuri Thorat  
+💼 LinkedIn: https://www.linkedin.com/in/mayurit83/
 💻 GitHub: https://github.com/mayurit83  
