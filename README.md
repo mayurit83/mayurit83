@@ -1,23 +1,23 @@
 # 👩‍💻 Mayuri Thorat
 
-
 ---
 
 ## 💼 About Me
 
-I’m an AI & Data Science student and I’ve worked on projects using Python, Django, React, Node.js, and SQL.
-I enjoy building small applications and learning how different parts of a system work together.
+I’m an AI & Data Science student and I’ve worked on projects using Python, Django, React, Node.js, and SQL.  
+I enjoy building small applications and learning how different parts of a system work together.  
 I like improving my skills by working on real projects and exploring both backend and frontend development.
+
 ---
 
 ## 💻 Skills & Tools
 
-**Programming:** Python, JavaScript, SQL  
-**Frontend Development:** HTML, CSS, React.js  
-**Backend Development:** Node.js, Express.js, Flask, Django  
-**Databases:** MySQL  
-**Version Control:** Git, GitHub  
-**Tools:** Postman, VS Code
+Programming: Python, JavaScript, SQL  
+Frontend Development: HTML, CSS, React.js  
+Backend Development: Node.js, Express.js, Flask, Django  
+Databases: MySQL  
+Version Control: Git, GitHub  
+Tools: Postman, VS Code  
 
 ---
 
@@ -40,21 +40,17 @@ I like improving my skills by working on real projects and exploring both backen
 
 | Project | Stack | Description |
 |---------|------|-------------|
-| 💬 **Smart Helpdesk Chatbot** | Flask, Python | Built a chatbot to handle user queries with backend logic and response system. |
-| 🚗 **Fleet Management System** | Django, REST API, MySQL | Developed backend system for managing vehicles, bookings, and maintenance tracking. |
-| 💰 **Loan Default Prediction** | Python,React, Machine Learning | Built ML model to predict loan default risk using classification algorithms. |
-| 🛍️ **E-Commerce Analysis** | SQL, Node.js | Analyzed customer behavior and sales trends using SQL and Node.js. |
-| 👩🏻‍💻 **Subjective Answer Evaluation System** | Django, React, ML | Full-stack system that evaluates answers using ML and displays results via React UI. |
-| ⚙️ **Smart Expense Tracker (Full Stack)** | React, Node.js, MySQL | CRUD-based full-stack application with REST APIs and dashboard interface. |
+| 💬 Smart Helpdesk Chatbot | Flask, Python | Built a chatbot to handle user queries with backend logic and responses. |
+| 🚗 Fleet Management System | Django, REST API, MySQL | Developed system for managing vehicles, bookings, and maintenance tracking. |
+| 💰 Loan Default Prediction | Python, Machine Learning | Built ML model to predict loan default risk using classification algorithms. |
+| 🛍️ E-Commerce Analysis | SQL, Node.js | Analyzed customer behavior and sales trends using SQL and Node.js. |
+| 👩🏻‍💻 Subjective Answer Evaluation System | Django, React, ML | Full-stack system that evaluates answers using ML and displays results via React UI. |
+| ⚙️ Smart Expense Tracker | React, Node.js, MySQL | CRUD-based full-stack application with REST APIs and dashboard UI. |
 
 ---
 
 ## 📫 Contact
 
-📧 Email: [mayurit83@gmail.com](mailto:mayurit83@gmail.com)  
-💼 LinkedIn: [Mayuri Thorat](https://www.linkedin.com/in/mayuri-t-2b40b6238/)  
-💻 GitHub: [mayurit83](https://github.com/mayurit83)
-
----
-
-⭐ Open to Internship and Full-Time Opportunities in Full Stack Development
+📧 Email: mayurit83@gmail.com  
+💼 LinkedIn: Mayuri Thorat  
+💻 GitHub: https://github.com/mayurit83  
