@@ -1,10 +1,10 @@
-# 👩‍💻 Mayuri Thorat
+#  Mayuri Thorat
 
 ---
 
 ## 💼 About Me
 
-I’m an AI & Data Science student and I’ve worked on projects using Python, Django, React, Node.js, and SQL.  
+I’m an AI & Data Science student and I’ve worked on projects using Python, Django, React.js, Node.js, and SQL.  
 I enjoy building small applications and learning how different parts of a system work together.  
 I like improving my skills by working on real projects and exploring both backend and frontend development.
 
