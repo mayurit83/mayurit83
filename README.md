@@ -1,16 +1,14 @@
 # 👩‍💻 Mayuri Thorat
 
-💻 **Full Stack Developer (React • Node.js • Django) | AI & Data Science Background**
 
 ---
 
 ## 💼 About Me
 
-I am an AI & Data Science student with hands-on experience in building web applications and full-stack systems.  
-I enjoy developing real-world applications using modern web technologies and continuously improving my development skills.
+I’m an AI & Data Science student and I’ve worked on projects using Python, Django, React, Node.js, and SQL.
+I enjoy building small applications and learning how different parts of a system work together.
 
-Currently focusing on **Full Stack Development using React, Node.js, Express, and MySQL**.
-
+I like improving my skills by working on real projects and exploring both backend and frontend development.**
 ---
 
 ## 💻 Skills & Tools
@@ -45,19 +43,10 @@ Currently focusing on **Full Stack Development using React, Node.js, Express, an
 |---------|------|-------------|
 | 💬 **Smart Helpdesk Chatbot** | Flask, Python | Built a chatbot to handle user queries with backend logic and response system. |
 | 🚗 **Fleet Management System** | Django, REST API, MySQL | Developed backend system for managing vehicles, bookings, and maintenance tracking. |
-| 💰 **Loan Default Prediction** | Python, Machine Learning | Built ML model to predict loan default risk using classification algorithms. |
-| 🛍️ **E-Commerce Analysis** | SQL, Python | Analyzed customer behavior and sales trends using SQL and Python. |
+| 💰 **Loan Default Prediction** | Python,React, Machine Learning | Built ML model to predict loan default risk using classification algorithms. |
+| 🛍️ **E-Commerce Analysis** | SQL, Node.js | Analyzed customer behavior and sales trends using SQL and Node.js. |
 | 👩🏻‍💻 **Subjective Answer Evaluation System** | Django, React, ML | Full-stack system that evaluates answers using ML and displays results via React UI. |
 | ⚙️ **Smart Expense Tracker (Full Stack)** | React, Node.js, MySQL | CRUD-based full-stack application with REST APIs and dashboard interface. |
-
----
-
-## 🎯 Career Interest
-
-- Full Stack Web Development  
-- Backend Development (Node.js / Django)  
-- API Development  
-- Real-time web applications  
 
 ---
 
