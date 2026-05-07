@@ -14,7 +14,7 @@ I like improving my skills by working on real projects and exploring both backen
 
 Programming: Python, JavaScript, SQL  
 Frontend Development: HTML, CSS, React.js  
-Backend Development: Node.js, Express.js, Flask, Django  
+Backend Development: Node.js, Django  
 Databases: MySQL  
 Version Control: Git, GitHub  
 Tools: Postman, VS Code  
@@ -27,7 +27,6 @@ Tools: Postman, VS Code
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![React](https://img.shields.io/badge/React-Frontend-blue)](https://react.dev/)  
 [![Node.js](https://img.shields.io/badge/Node.js-Backend-green)](https://nodejs.org/)  
-[![Express](https://img.shields.io/badge/Express-API-black)](https://expressjs.com/)  
 [![MySQL](https://img.shields.io/badge/MySQL-Database-orange)](https://www.mysql.com/)  
 [![HTML](https://img.shields.io/badge/HTML5-red)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![CSS](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
