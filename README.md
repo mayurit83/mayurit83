@@ -41,7 +41,6 @@ Tools: Postman, VS Code
 |---------|------|-------------|
 | 💬 Smart Helpdesk Chatbot | Flask, Python | Built a chatbot to handle user queries with backend logic and responses. |
 | 🚗 Fleet Management System | Django, REST API, MySQL | Developed system for managing vehicles, bookings, and maintenance tracking. |
-| 💰 Loan Default Prediction | Python, Machine Learning | Built ML model to predict loan default risk using classification algorithms. |
 | 🛍️ E-Commerce Analysis | SQL, Node.js | Analyzed customer behavior and sales trends using SQL and Node.js. |
 | 👩🏻‍💻 Subjective Answer Evaluation System | Django, React, ML | Full-stack system that evaluates answers using ML and displays results via React UI. |
 | ⚙️ Smart Expense Tracker | React, Node.js, MySQL | CRUD-based full-stack application with REST APIs and dashboard UI. |
